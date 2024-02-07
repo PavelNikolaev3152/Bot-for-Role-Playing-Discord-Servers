@@ -35,7 +35,6 @@ async def self(interaction: discord.Interaction, gmname: str,
 Формат игры: {gameformat}
 Игровая система: {gamesystem}
 Опыт введеня игр: {gmexperience}
-Время контакта с администрацией: {timeconact}
 """)
 
 
