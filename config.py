@@ -1,5 +1,5 @@
 settings = {
     'token': '',
     'bot': 'PlayerRegister',
-    'server_id': 1048904315986772039
+    'server_id': 0
 }
